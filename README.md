@@ -1,7 +1,7 @@
 # Machine-Learning-Projects
 Google QUEST QnA Labeling 
-- Predicted target values of 30 labels for each question-answer pair which were imported from various StackExchangeproperties.
-- Used NLP to preprocess, clean the data after which I applied DecisionTreeRegressor, linear support vector machineetc. algorithms and choose the best based on their accuracies.
+- Predicted target values of 30 labels for each question-answer pair which were imported from various StackExchange properties.
+- Used NLP to preprocess, clean the data after which I applied DecisionTreeRegressor, linear support vector machine etc. algorithms and choose the best based on their accuracies.
 
 
 Food Delivery Time Prediction
@@ -11,4 +11,4 @@ Food Delivery Time Prediction
 
 Credit Card Approval Prediction
 - A binary classification model to automate the Credit Card eligibility process based on customer details.
-- Detailed visualisation of the various features affecting the eligibility process, Balanced the dataset usingSMOTE,XGBOOSTgave the highest accuracy of84%
+- Detailed visualisation of the various features affecting the eligibility process, Balanced the dataset using SMOTE, XGBOOST gave the highest accuracy of84%
