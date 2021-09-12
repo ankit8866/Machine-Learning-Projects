@@ -7,3 +7,8 @@ Google QUEST QnA Labeling
 Food Delivery Time Prediction
 - Predicted the time to deliver food based on the location of restaurant, cuisine, price, ratings etc.
 - Applied Linear regression & XGBClassifiers on the preprocessed data (partly by applying NLP) to achieve more accuracy.
+
+
+Credit Card Approval Prediction
+- A binary classification model to automate the Credit Card eligibility process based on customer details.
+- Detailed visualisation of the various features affecting the eligibility process, Balanced the dataset usingSMOTE,XGBOOSTgave the highest accuracy of84%
